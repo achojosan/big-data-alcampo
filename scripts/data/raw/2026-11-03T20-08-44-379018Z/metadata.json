@@ -1,0 +1,11 @@
+{
+  "inicio_utc": "2026-11-03T20:08:44.379018+00:00",
+  "fin_utc": "2026-11-03T20:08:44.522038+00:00",
+  "estado": "incompleta",
+  "descarga": {
+    "archivo": "productos_alcampo.json",
+    "url": "https://www.compraonline.alcampo.es/api/webproductpagews/v5/product-pages?decoratedOnly=true&limit=27&tag=web&tag=lohp",
+    "estado": "error",
+    "error": "HTTP Error 403: Forbidden"
+  }
+}
