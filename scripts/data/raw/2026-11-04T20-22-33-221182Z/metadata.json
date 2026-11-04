@@ -1,0 +1,20 @@
+{
+  "inicio_utc": "2026-11-04T20:22:33.221182+00:00",
+  "fin_utc": "2026-11-04T20:22:33.223177+00:00",
+  "estado": "incompleta",
+  "url_inicial": "https://www.compraonline.alcampo.es",
+  "paginas_visitadas": 0,
+  "categorias_visitadas": 0,
+  "categorias_con_datos": 0,
+  "identificadores_unicos": 0,
+  "productos_detallados": 0,
+  "respuestas_api": 0,
+  "limite_de_categorias_alcanzado": false,
+  "acceso_restringido": null,
+  "errores": [
+    {
+      "error": "Falta Playwright. Instala requirements.txt y ejecuta 'python -m playwright install chromium'.",
+      "detalle": "No module named 'playwright'"
+    }
+  ]
+}

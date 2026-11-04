@@ -1,0 +1,15 @@
+{
+  "inicio_utc": "2026-11-04T20:25:01.533581+00:00",
+  "fin_utc": "2026-11-04T20:26:47.548956+00:00",
+  "estado": "incompleta",
+  "url_inicial": "https://www.compraonline.alcampo.es",
+  "paginas_visitadas": 3,
+  "categorias_visitadas": 2,
+  "categorias_con_datos": 2,
+  "identificadores_unicos": 1817,
+  "productos_detallados": 1815,
+  "respuestas_api": 95,
+  "limite_de_categorias_alcanzado": false,
+  "acceso_restringido": "HTTP 403 al cargar la API pública de catálogo",
+  "errores": []
+}
